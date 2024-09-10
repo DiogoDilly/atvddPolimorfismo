@@ -8,14 +8,14 @@ package com.mycompany.atividadepolimorfismo;
  *
  * @author aluno.saolucas
  */
-public class passaro extends Animal {
+public class gato extends Animal{
     @Override
     public void emitirsom(){
-        System.out.println("piu");
-        
+        System.out.println("miau miau");
     }
     @Override
     public void mover(){
-        System.out.println("voou");
+        System.out.println("ele saltou");
     }
+    
 }
