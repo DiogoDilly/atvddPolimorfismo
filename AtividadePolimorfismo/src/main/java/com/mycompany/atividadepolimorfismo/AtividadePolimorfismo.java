@@ -21,6 +21,9 @@ public class AtividadePolimorfismo {
     t4.emitirsom();
     t4.mover();
     t5.emitirsom();
+    t5.mover();
+    t6.emitirsom();
+    t6.mover();
     
     }
 }

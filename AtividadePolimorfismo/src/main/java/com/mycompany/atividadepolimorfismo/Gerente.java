@@ -8,17 +8,6 @@ package com.mycompany.atividadepolimorfismo;
  *
  * @author aluno.saolucas
  */
-abstract class ContaBancaria {
-    
-    public void sacar(){
-        
-        
-        
-    }
-    public void depositar(){
-        
-        
-        
-    }
+public class Gerente {
     
 }
